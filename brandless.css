@@ -1,0 +1,5 @@
+.brand{display:none!important}
+.header nav{margin-left:auto}
+.slides{aspect-ratio:4/5}
+.slide:first-child img{object-position:center}
+@media(max-width:900px){.header nav{display:none}.header-call{margin-right:auto}}
