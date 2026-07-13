@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmedzakaria14.github.io/mandoubinternet/sitemap.xml
